@@ -1,12 +1,3 @@
-## Hi there 👋
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+# Welcome to The Golang Way 👋 #
+<img align="right" width="100" height="100" src="https://raw.githubusercontent.com/gist/error-ident/7229dca13c71739d80416f5b4411916a/raw/0f0934a8176bb6d10189079ab5779b3879d751c9/gopher-dance.gif">
+Feel free to add your Go projects or make contributions! This organization is for beginners or more experienced developers, so enjoy! Please do not be afraid to ask questions regarding anything about the projects, contributions, or the language itself. Have a great time and make sure to make the most out of it!
