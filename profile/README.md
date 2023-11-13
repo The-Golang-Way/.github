@@ -11,3 +11,7 @@ We would appreciate any help in writing documentation for our applications! If y
 ### Project Ideas:
 - Develop a website using the Hugo framework
 - Interactive CLI game to kill time
+
+### Learn More:
+- Click [here](https://the-golang-way.github.io/) to visit our official website
+- Click [here](https://www.linkedin.com/company/the-golang-way/) to follow us on LinkedIn
